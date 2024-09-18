@@ -1,2 +1,2 @@
 # demoRepo
-The quick brown fox jumped over the lazy dog.
+The slow brown dog jumped under the lazy fox.
